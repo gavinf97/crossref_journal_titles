@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+--
+Additional Terms for Crossref Data Usage
+When using data retrieved from the Crossref API through this software:
+
+This license applies to the software code only. The data retrieved from the Crossref API is subject to Crossref's terms and conditions.
+In accordance with Crossref's public data use policy:
+
+Provide appropriate attribution to Crossref as the source of the data
+Do not present the data in a way that could be confused as being an official Crossref service
+Respect any rate limits and access guidelines specified by Crossref
+
+
+When redistributing datasets created with this software that contain Crossref data:
+
+Include a reference to the Crossref API as the original data source
+Include a link to Crossref's terms of service: https://www.crossref.org/services/metadata-delivery/rest-api/
+
+
+For bulk data usage or commercial applications, users are encouraged to check Crossref's most current terms of service and consider becoming a Crossref Metadata Plus subscriber if appropriate.
+
+This additional section ensures compliance with Crossref's data usage policies while maintaining the open nature of the MIT license for the software itself.
